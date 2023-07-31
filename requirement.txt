@@ -3,4 +3,5 @@ Emoji
 Type option
 colors
 vibrant
-dark theme
+Dark theme
+Video
